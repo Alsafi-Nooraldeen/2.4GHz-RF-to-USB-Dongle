@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+D:\STM32_RF_USB\Project Outputs for STM32_RF_USB\Pick Place\Pick Place for STM32_RF_USB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/03/25
+Time:       04:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","ComponentKind"
+"J1","USB4105-GF-A-060","TopLayer","USB4105-GF-A-060","200.000mil","370.048mil","270","USB Connector Type C SMT 12 Pin","Standard"
+"R4","CRCW040242K2FKED","TopLayer","RESC1005X40X25LL05T05","866.000mil","634.275mil","270","","Standard"
+"Y1","ABM3-16.000MHZ-D2Y-T","TopLayer","FP-ABM3-MFG","1135.000mil","160.000mil","180","Crystal 16MHz ±20ppm 18pF SMD-2 5mm x 3.2mm","Standard"
+"U2","NRF24L01","TopLayer","FP-NRF24L01-IPC_C","1140.062mil","370.048mil","0","IC RF TXRX ISM>1GHZ 20VFQFN","Standard"
+"U1","STM32L432KBU6","TopLayer","FP-UFQFPN32-A0B8-MFG","866.102mil","397.480mil","270","IC MCU 32BIT 128KB FLASH 32QFPN","Standard"
+"R7","10k","TopLayer","RES_0402","1008.000mil","553.000mil","90","Resistor SMD 0402","Standard"
+"R6","1MOhm","TopLayer","RES_0402","1135.000mil","55.000mil","0","Resistor SMD 0402","Standard"
+"R5","CRCW040242K2FKED","TopLayer","RESC1005X40X25LL05T05","704.000mil","634.275mil","270","","Standard"
+"R3","22K","TopLayer","RES_0402","1199.117mil","569.000mil","180","Resistor SMD 0402","Standard"
+"R2","CRCW04025K10FKED","TopLayer","FP-CRCW0402-e3-IPC_A","390.000mil","419.261mil","180","RES Thick Film, 5.1kO, 1%, 0.063W, 100ppm/°C, 0402","Standard"
+"R1","CRCW04025K10FKED","TopLayer","FP-CRCW0402-e3-IPC_A","390.000mil","301.151mil","180","RES Thick Film, 5.1kO, 1%, 0.063W, 100ppm/°C, 0402","Standard"
+"P1","61301021121","TopLayer","61301021121","640.000mil","140.000mil","180","","Standard"
+"L3","744901027","TopLayer","WE-TCI_0402","1323.000mil","320.836mil","270","744901027 Fixed Ind 2.7NH 440MA 300MOHM Sm","Standard"
+"L2","LQG15HN8N2J02D","TopLayer","FP-LQG15HH_02-MFG","1288.000mil","354.300mil","90","Multilayer type RF Inductor 8.2nH ±5% 0.25O 500mA 0402","Standard"
+"L1","744901082","TopLayer","WE-TCI_0402","1435.000mil","370.048mil","0","744901082 Fixed Ind 8.2NH 220MA 1.1 Ohm SMD","Standard"
+"J2","CON-SMA-EDGE-S","TopLayer","CON-SMA-EDGE-S","1725.000mil","370.048mil","0","RF Connector SMA Female 50 Ohms 18 GHz PCB Edge Mount","Standard"
+"IC2","USBLC6-2SC6","TopLayer","SOT95P280X145-6N","542.000mil","350.550mil","0","Integrated Circuit","Standard"
+"IC1","XC6206P332MR","TopLayer","SOT95P280X130-3N","500.000mil","569.882mil","90","Integrated Circuit","Standard"
+"FB1","BLM18EG101TN1D","TopLayer","FP-BLM18-0_15-t0_5-MFG","400.000mil","491.671mil","90","Chip Ferrite Bead, 0603, 100O @ 100MHz, 25%, 0.045O, 2A","Standard"
+"D2","LTST-C190GKT","TopLayer","FP-LTST-C190GKT-MFG","760.000mil","589.000mil","270","LED GREEN CLEAR CHIP SMD","Standard"
+"D1","LTST-C190GKT","TopLayer","FP-LTST-C190GKT-MFG","805.000mil","589.000mil","270","LED GREEN CLEAR CHIP SMD","Standard"
+"C14","C0402","TopLayer","CAP_0402","350.000mil","110.315mil","270","Capacitor SMD 0402","Standard"
+"C13","C0402C270J5GACTU","TopLayer","FP-C0402-BB-MFG","1038.543mil","55.000mil","180","CAP CER 27PF 50V C0G/NP0 0402","Standard"
+"C12","C0402C270J5GACTU","TopLayer","FP-C0402-BB-MFG","1231.457mil","55.000mil","0","CAP CER 27PF 50V C0G/NP0 0402","Standard"
+"C11","C0402","TopLayer","CAP_0402","1421.968mil","303.120mil","180","Capacitor SMD 0402","Standard"
+"C10","C0402","TopLayer","CAP_0402","1421.968mil","253.000mil","180","Capacitor SMD 0402","Standard"
+"C9","C0402C109C5GACTU","TopLayer","FP-C0402-BB-MFG","1577.000mil","385.796mil","90","CAP CER 1PF 50V NP0 0402","Standard"
+"C8","C0402","TopLayer","CAP_0402","1515.000mil","370.048mil","0","Capacitor SMD 0402","Standard"
+"C7","C0402C333K4RACTU","TopLayer","FP-C0402-BB-MFG","1097.629mil","565.000mil","180","0402 C 33nF Ceramic Multilayer Capacitor; 16 V; +125degC; X7R Dielectric; +/-10%","Standard"
+"C6","C0402","TopLayer","CAP_0402","1159.747mil","676.000mil","180","Capacitor SMD 0402","Standard"
+"C5","C0402","TopLayer","CAP_0402","1159.747mil","628.000mil","180","Capacitor SMD 0402","Standard"
+"C4","1206ZD106KAT2A","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-IPC_A","340.914mil","641.000mil","180","General Purpose Ceramic Capacitor, 1206, 10uF, 10%, X5R, 15%, 10V","Standard"
+"C3","1206ZD106KAT2A","TopLayer","FP-1206-L_3_2_0_2-W_1_6_0-IPC_A","615.000mil","573.850mil","90","General Purpose Ceramic Capacitor, 1206, 10uF, 10%, X5R, 15%, 10V","Standard"
+"C2","CL05A104KP5NNNC","TopLayer","FP-CL46-IPC_C","385.096mil","564.000mil","180","Cap Ceramic 100nF 10V X5R ±10% SMD 0402 +85°C Paper T/R","Standard"
+"C1","CL05A104KP5NNNC","TopLayer","FP-CL46-IPC_C","355.000mil","480.000mil","90","Cap Ceramic 100nF 10V X5R ±10% SMD 0402 +85°C Paper T/R","Standard"

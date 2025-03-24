@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Altium Design Projects\STM32_RF_USB\STM32_RF_USB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm32_rf_usb-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm32_rf_usb-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
