@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC7_1 New Net Name=DVDD
+Change Net Name : Old Net Name=NetC8_2 New Net Name=SMA
+Change Net Name : Old Net Name=NetR3_2 New Net Name=IREF
+Change Net Name : Old Net Name=NetR4_2 New Net Name=LED1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=LED2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=PH3
+Change Net Name : Old Net Name=USB_CC1 New Net Name=CC1
+Change Net Name : Old Net Name=USB_CC2 New Net Name=CC2
