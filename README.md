@@ -1,4 +1,4 @@
-# STM32_RF_USB-PCB
+# 2.4GHz-RF-to-USB-Dongle
 
 This design for 2.4GHz RF to USB Dongle:
 STM32L4-based RF-to-USB dongle using a low-power NRF24 2.4GHz transceiver.
