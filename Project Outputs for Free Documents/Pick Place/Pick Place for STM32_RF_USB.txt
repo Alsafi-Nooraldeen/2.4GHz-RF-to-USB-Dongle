@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+D:\Altium Design Projects\STM32_RF_USB\Project Outputs for Free Documents\Pick Place\Pick Place for STM32_RF_USB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/03/25
+Time:       16:48
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer    Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                        
+J1         USB4105-GF-A-060     TopLayer USB4105-GF-A-060                200.000       370.048       270      "USB Connector Type C SMT 12 Pin"                                                  
+R4         CRCW040242K2FKED     TopLayer RESC1005X40X25LL05T05           866.000       634.275       270      ""                                                                                 
+Y1         ABM3-16.000MHZ-D2Y-T TopLayer FP-ABM3-MFG                     1135.000      160.000       180      "Crystal 16MHz ±20ppm 18pF SMD-2 5mm x 3.2mm"                                      
+U2         NRF24L01             TopLayer FP-NRF24L01-IPC_C               1140.062      370.048       0        "IC RF TXRX ISM>1GHZ 20VFQFN"                                                      
+U1         STM32L432KBU6        TopLayer FP-UFQFPN32-A0B8-MFG            866.102       397.480       270      "IC MCU 32BIT 128KB FLASH 32QFPN"                                                  
+R7         10k                  TopLayer RES_0402                        1008.000      553.000       90       "Resistor SMD 0402"                                                                
+R6         1MOhm                TopLayer RES_0402                        1135.000      55.000        0        "Resistor SMD 0402"                                                                
+R5         CRCW040242K2FKED     TopLayer RESC1005X40X25LL05T05           704.000       634.275       270      ""                                                                                 
+R3         22K                  TopLayer RES_0402                        1199.117      569.000       180      "Resistor SMD 0402"                                                                
+R2         CRCW04025K10FKED     TopLayer FP-CRCW0402-e3-IPC_A            390.000       419.261       180      "RES Thick Film, 5.1kO, 1%, 0.063W, 100ppm/°C, 0402"                               
+R1         CRCW04025K10FKED     TopLayer FP-CRCW0402-e3-IPC_A            390.000       301.151       180      "RES Thick Film, 5.1kO, 1%, 0.063W, 100ppm/°C, 0402"                               
+P1         61301021121          TopLayer 61301021121                     640.000       140.000       180      ""                                                                                 
+L3         744901027            TopLayer WE-TCI_0402                     1323.000      320.836       270      "744901027 Fixed Ind 2.7NH 440MA 300MOHM Sm"                                       
+L2         LQG15HN8N2J02D       TopLayer FP-LQG15HH_02-MFG               1288.000      354.300       90       "Multilayer type RF Inductor 8.2nH ±5% 0.25O 500mA 0402"                           
+L1         744901082            TopLayer WE-TCI_0402                     1435.000      370.048       0        "744901082 Fixed Ind 8.2NH 220MA 1.1 Ohm SMD"                                      
+J2         CON-SMA-EDGE-S       TopLayer CON-SMA-EDGE-S                  1725.000      370.048       0        "RF Connector SMA Female 50 Ohms 18 GHz PCB Edge Mount"                            
+IC2        USBLC6-2SC6          TopLayer SOT95P280X145-6N                542.000       350.550       0        "Integrated Circuit"                                                               
+IC1        XC6206P332MR         TopLayer SOT95P280X130-3N                500.000       569.882       90       "Integrated Circuit"                                                               
+FB1        BLM18EG101TN1D       TopLayer FP-BLM18-0_15-t0_5-MFG          400.000       491.671       90       "Chip Ferrite Bead, 0603, 100O @ 100MHz, 25%, 0.045O, 2A"                          
+D2         LTST-C190GKT         TopLayer FP-LTST-C190GKT-MFG             760.000       589.000       270      "LED GREEN CLEAR CHIP SMD"                                                         
+D1         LTST-C190GKT         TopLayer FP-LTST-C190GKT-MFG             805.000       589.000       270      "LED GREEN CLEAR CHIP SMD"                                                         
+C14        C0402                TopLayer CAP_0402                        350.000       110.315       270      "Capacitor SMD 0402"                                                               
+C13        C0402C270J5GACTU     TopLayer FP-C0402-BB-MFG                 1038.543      55.000        180      "CAP CER 27PF 50V C0G/NP0 0402"                                                    
+C12        C0402C270J5GACTU     TopLayer FP-C0402-BB-MFG                 1231.457      55.000        0        "CAP CER 27PF 50V C0G/NP0 0402"                                                    
+C11        C0402                TopLayer CAP_0402                        1421.968      303.120       180      "Capacitor SMD 0402"                                                               
+C10        C0402                TopLayer CAP_0402                        1421.968      253.000       180      "Capacitor SMD 0402"                                                               
+C9         C0402C109C5GACTU     TopLayer FP-C0402-BB-MFG                 1577.000      385.796       90       "CAP CER 1PF 50V NP0 0402"                                                         
+C8         C0402                TopLayer CAP_0402                        1515.000      370.048       0        "Capacitor SMD 0402"                                                               
+C7         C0402C333K4RACTU     TopLayer FP-C0402-BB-MFG                 1097.629      565.000       180      "0402 C 33nF Ceramic Multilayer Capacitor; 16 V; +125degC; X7R Dielectric; +/-10%" 
+C6         C0402                TopLayer CAP_0402                        1159.747      676.000       180      "Capacitor SMD 0402"                                                               
+C5         C0402                TopLayer CAP_0402                        1159.747      628.000       180      "Capacitor SMD 0402"                                                               
+C4         1206ZD106KAT2A       TopLayer FP-1206-L_3_2_0_2-W_1_6_0-IPC_A 340.914       641.000       180      "General Purpose Ceramic Capacitor, 1206, 10uF, 10%, X5R, 15%, 10V"                
+C3         1206ZD106KAT2A       TopLayer FP-1206-L_3_2_0_2-W_1_6_0-IPC_A 615.000       573.850       90       "General Purpose Ceramic Capacitor, 1206, 10uF, 10%, X5R, 15%, 10V"                
+C2         CL05A104KP5NNNC      TopLayer FP-CL46-IPC_C                   385.096       564.000       180      "Cap Ceramic 100nF 10V X5R ±10% SMD 0402 +85°C Paper T/R"                          
+C1         CL05A104KP5NNNC      TopLayer FP-CL46-IPC_C                   355.000       480.000       90       "Cap Ceramic 100nF 10V X5R ±10% SMD 0402 +85°C Paper T/R"                          

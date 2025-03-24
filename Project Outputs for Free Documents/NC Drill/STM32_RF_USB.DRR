@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM32_RF_USB.PcbDoc   3/24/2025  4:48:19 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : STM32_RF_USB-RoundHoles.TXT
+ASCII SlotHoles File : STM32_RF_USB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             2         PTH        1.45mm (0.06inch)
+T2      0.254mm (10mil)                                           Round             88        PTH        281.46mm (11.08inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        37.57mm (1.48inch)
+T4      1.1mm (43mil)                                             Round             10        PTH        25.40mm (1.00inch)
+T5      2.032mm (80mil)                                           Round             2         PTH        14.63mm (0.58inch)
+T6      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              108
+
+Total Processing Time (hh:mm:ss) : 00:00:00
