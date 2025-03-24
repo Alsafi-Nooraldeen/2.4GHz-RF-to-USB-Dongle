@@ -10,4 +10,4 @@ This design utilizes an STM32L4 USB interface and an nRF24L01 2.4GHz module to e
 ![Screenshot 2025-03-24 165345](https://github.com/user-attachments/assets/9ca2a292-eb31-481c-8df1-a95165476415)
 ![Screenshot 2025-03-24 165237](https://github.com/user-attachments/assets/2a47d241-0038-479f-8667-f83598cd4174)
 ![Screenshot 2025-03-24 165153](https://github.com/user-attachments/assets/576a24e5-a3f1-4f17-871e-b0853504bce8)
-![Uploading Screenshot 2025-03-24 225424.png…]()
+![Screenshot 2025-03-24 225424](https://github.com/user-attachments/assets/df20740e-9f47-4484-b735-aa394580ad80)
